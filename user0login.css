@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 720px;
+    width: 100%;
+    background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0));
+}
+#line {
+    width: 1350px;
+    left: 70px;
+    border-top: 2px solid deeppink;
+    position: relative;
+    top: 50px;
+}
+#type{
+    color: rgb(0, 221, 255);
+    font-size: larger;
+    margin-left: 70px;
+    position: relative;
+    top: 10px;
+}
+#type1{
+    color:rgb(0, 208, 231);;
+    font-size: larger;
+    margin-left: 110px;
+    position: relative;
+    top: 10px;
+}
+.logo{
+    height: 20px;
+    width: 12px;
+   margin-top:-20px ;
+    margin-left: 1360px;
+}
+
+form {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 400px;
+height: 420px;
+background: rgba(0,0,0,.5);
+border-radius: 100px;
+box-sizing: border-box;
+font-weight: 800px;
+padding-bottom: 50px ;
+border: 2px solid navajowhite;
+}
+h2 {
+color: #fff;
+text-align: center;
+margin-top: 20px;
+font-size: 60px;
+}
+input[type="text"],[type="password"] {
+position: absolute;
+outline: none;
+border: none;
+width: 400px;
+height: 35px;
+border-bottom: 2px solid lightblue;
+background: none;
+padding-left: 150px;
+margin-left: -50px;
+color: rgb(155, 33, 33);
+}
+
+input[type="text"]{
+    top: 140px;
+    left: 50px;
+}
+input[type="password"]{
+top: 210px;
+left: 50px;
+}
+
+input[value="login"] {
+
+    position: absolute;
+    top: 280px;
+    right: 220px;
+    width: 130px;
+    height: 35px;
+    background: darkmagenta;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 20px;
+}
+input[value="login"]:hover{
+    background: #fff;
+    color: #0077ff;
+}
+#g7 {
+
+    position: absolute;
+    top: 280px;
+    right: 60px;
+    width: 130px;
+    height: 35px;
+    background: darkmagenta;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 20px;
+}
+#g7:hover{
+    background: #fff;
+    color: #0077ff;
+}
+
+#p{
+    position: absolute;
+    top: 330px;
+    left: 80px;
+    color:#fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+#p:hover{
+    color: #72c9ff;
+}
+#p1{
+    position: absolute;
+    top: 330px;
+    right: 80px;
+    color:#fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+#p1:hover{
+    color: #72c9ff;
+}
+
+#icon a{
+    font-size: 30px;
+    margin: 10px;
+  text-decoration: none;
+}
+#icon1{
+    position: absolute;
+    top: 305px;
+  padding: 60px;
+ 
+}
+#icon2{
+    position: absolute;
+    top: 368px;
+    right: 135px;
+}
+#icon3{
+    position: absolute;
+    top: 368px;
+    right: 205px;
+
+}
+#icon4{
+    position: absolute;
+    top: 368px;
+    right: 55px;
+
+}
+#g0{
+    font-family: 'Imperial Script',cursive;  
+    background-color: black;
+    border-radius: 90px;
+    text-align: center;
+   margin-top: 70px;
+}
+h2{
+    font-family: 'Imperial Script', cursive;
+}
+#line0 {
+    width: 1350px;
+    margin-left: 77px;
+    border-top: 2px solid deeppink;
+    position: relative;
+    top: 600px;
+}

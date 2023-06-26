@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 721px;
+    width: 100%;
+    background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0));
+}
+#line {
+    width: 1350px;
+    left: 70px;
+    border-top: 2px solid #3957ff;
+    position: relative;
+    top: 50px;
+}
+.logo{
+    height: 20px;
+    width: 12px;
+   margin-top:-20px ;
+    margin-left: 1370px;
+
+}
+#type{
+    color: rgb(0, 221, 255);
+    font-size: larger;
+    margin-left: 70px;
+    position: relative;
+    top: 10px;
+}
+#type1{
+    color: rgb(2, 17, 188);
+    font-size: larger;
+    margin-left: 420px;
+    position: relative;
+    top: 10px;
+}
+#A{
+    color: rgb(2, 17, 188);
+    font-size: larger;
+    position: relative;
+    margin-top: -5px;
+}
+.cdtxt1 {
+    width: 1200px;
+    height: 300px;
+    background-color: rgb(33, 33, 33);
+    position: absolute;
+    top: 120px;
+    padding: 25px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    left: 140px;
+    border-radius: 10px;
+}
+.cdtxt2 {
+    width: 550px;
+    height: 120px;
+     background-color: rgb(33, 33, 33);
+    position: absolute;
+    top: 500px;
+    padding: 25px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    left: 141px;
+    border-radius: 10px;
+}
+.cdtxt3 {
+    width: 500px;
+    height: 120px;
+    background-color: rgb(33, 33, 33);
+    position: absolute;
+    top: 500px;
+    padding: 25px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    right: 200px;
+    border-radius: 10px;
+    margin-left: 107px;
+}
+#nemo{
+    border: 3px solid rgb(255, 153, 0);
+    padding: 12px;
+    color: rgb(16, 141, 163);
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    transition: all 0.2s;
+    font-size: 10px;
+    margin-top: -30px;
+}
+#nemo:hover{
+    border: 3px solid rgb(255, 153, 0);
+    padding: 12px;
+    color: rgb(16, 141, 163);
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    transition: all 0.2s ;
+    font-size: 10px;
+    margin-top: -30px;
+}
+#line0 {
+    width: 1350px;
+    left: 70px;
+    border-top: 2px solid #3957ff;
+    position: relative;
+    top: 600px;
+}
+#footer {
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    margin-top: -32px;
+    margin-left: 15px;
+}
+
+#icon a {
+    font-size: 40px;
+    text-decoration: none;
+    margin: 20px;
+}
