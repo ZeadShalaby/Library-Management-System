@@ -18,7 +18,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Hotel-Management-System](#Library-Management-System)
+* [Library-Management-System](#Library-Management-System)
 * [Installation-Process](#Installation-Process)
 * [Contributing](#contributing)
 * [Authors](#authors)
