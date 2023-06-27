@@ -47,7 +47,7 @@
 
 
 
-📌Reserve Class Page: 
+📌Book Page: 
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-📌Footer Page: 
+📌Admin Page: 
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-📌Checkout Page: 
+📌User Page: 
 
 
 
