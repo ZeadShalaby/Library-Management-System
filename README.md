@@ -1,8 +1,8 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/ZeadShalaby/Hotel-Management-System">
-    <img src="https://i.imgur.com/ctHdBeA.png" alt="Logo" width="230" height="170">
+  <a href="https://github.com/ZeadShalaby/Library-Management-System">
+    <img src="https://i.imgur.com/s0fxrRe.png" alt="Logo" width="230" height="170">
   </a>
 
 <h3 align="center">Library-Management-System</h3>
