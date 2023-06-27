@@ -97,7 +97,7 @@
 
 08. after creating database name click on import
 
-09. browse the file in directory [Xampp\htdocs\Library-Management-System\database\hotel.sql]
+09. browse the file in directory [Xampp\htdocs\Library-Management-System\database\library.sql]
 
 10. after importing successfully
 
