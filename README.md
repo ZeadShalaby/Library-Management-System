@@ -27,7 +27,7 @@
 
 
 
-<img src="https://i.imgur.com/tqDm2UT.png" alt="Logo" width="900" height="500">
+<img src="https://i.imgur.com/KyDEmq3.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
  
